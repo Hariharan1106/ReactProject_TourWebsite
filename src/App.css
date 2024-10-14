@@ -1,0 +1,195 @@
+*{
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  }
+
+.navbar{
+  width: 100%;
+  padding: 0px;
+
+}
+.main-content{
+  position: relative;
+  
+}
+.img1{
+  width: 100%;
+  
+ }
+
+.form{
+  position: absolute;
+  left: 65%;
+  top: 25%;
+  background-color: white;
+  color: black;
+  padding: 25px;
+  width: 500px;
+  height: 650px;
+}
+
+#heading{
+  text-align: center;
+  font-size: 30px;
+  font-weight: 500;
+  letter-spacing: 5px;
+  
+}
+.name{
+  padding: 5px;
+  width: 200px;
+  margin: 15px;
+}
+
+.phone{
+  padding: 5px;
+  width: 200px;
+}
+
+.email{
+  padding: 5px;
+  width: 200px;
+  margin: 15px;
+}
+
+.drop{
+  padding: 5px;
+  width: 200px;
+}
+
+.test{
+  padding: 5px;
+  width: 200px;
+  margin: 15px;
+}
+
+.test1{
+  padding: 5px;
+  width: 200px;
+}
+
+.ratio{
+  position: relative;
+}
+.radio{
+  width: 60%;
+  padding: 5px;
+
+}
+
+.radio1{
+  position: absolute;
+  left: 62%;
+  top: 0%;
+  
+}
+
+.last-word{
+  
+  font-size: 15px;
+  text-align: center;
+}
+
+ .button{
+  background-color: green;
+  color: white;
+  text-align: center;
+   width: 175px;
+  border-radius: 50px;
+  padding: 5px;
+  margin-left: 30%;
+
+ }
+.word{
+  position: absolute;
+  left: 7%;
+  top: 40%;
+  color: white;
+  }
+
+  .sub-content{
+    /* width: 100%; */
+    position: relative;
+    }
+
+  .heading{
+    position: absolute;
+    margin-left: 27%;
+    top: 0%;
+    color: white;
+    font-size: 45px;
+    font-weight: 500;
+    font-style: bold;
+  }
+ 
+  .img2{
+    width: 100%;
+  }
+   
+  .text{
+    width: 40%;
+    letter-spacing: 1px;
+    margin-left: 10%;
+    padding: 10px;
+    margin-top: 5%;
+  }
+
+.img3{
+  position: absolute;
+  left: 60%;
+  top: 30%;
+  /* width: 30%; */
+  }
+   
+ .word1{
+  position: absolute;
+  margin-left: 29%;
+  margin-top: 3%;
+ }
+.mini-content{
+  position: relative;
+}
+
+.rectangle{
+ 
+  width: 100%;
+  margin-top: 10%;
+}
+
+.group{
+ position: absolute;
+  top: 30%;
+  margin-left: 43%;
+  /* border: 3px solid #CFCFCF; */
+  color: white;
+  border-radius: 50px;
+}
+    .group1{
+     position: absolute;
+      top: 35%;
+      margin-left: 30%;
+      color: white;
+     }
+
+     .img4{
+      margin-top: 5%;
+       margin-left: 30%;
+     }
+   
+     .img5{
+      margin-top: 5%;
+       margin-left: 20%;
+       margin-bottom: 5%;
+     }
+    
+    .button1{
+      margin-left: 45%;
+      margin-bottom: 3%;
+      background-color: #0F5B92;
+      color: white;
+      border-radius: 50px;
+      padding: 25px;
+      font-size: 24px;
+      /* border: 10px solid; */
+    }
